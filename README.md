@@ -122,13 +122,13 @@ This project showed me how three simple measures can turn hundreds of thousands 
 
 ## 🔗 Related Link
 
-[LinkedIn Post](https://www.linkedin.com/in/YOUR-POST-LINK)
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7525665314404007936/)
 
 ## 👨‍💻 Author
 
 **Omar Shazley**: Data Analyst | Python, Excel, SQL, and healthcare data analytics
 
-💼 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/omar-shazley-914a16b1/)<br>
 💻 [GitHub Portfolio](https://github.com/Bromar95)<br>
 📧 Email: [omarshazley@gmail.com](mailto:omarshazley@gmail.com)
 
